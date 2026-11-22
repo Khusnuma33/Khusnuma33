@@ -9,7 +9,7 @@ I build production-ready **Agentic AI workflows, real-time voice agents, and sca
 
 ## 🚀 Featured AI & Full-Stack Projects
 
-* **[Agentic Auto-Escrow](https://github.com/Khusnuma33/agentic-auto-escrow):** An autonomous AI compliance auditor from the PayPal AI Hackathon using Next.js, Node.js, and Google Gemini API (`gemini-3.5-flash-lite`) to audit code and trigger PayPal payments (https://github.com](https://github.com/Khusnuma33/agentic-auto-escrow)) • [Live Demo](https://agentic-auto-escrow-1.onrender.com) • [Video](https://www.youtube.com/watch?v=rJ1KZ4dXjj8).
+* **[Agentic Auto-Escrow](https://github.com/Khusnuma33/agentic-auto-escrow):** An autonomous AI compliance auditor from the PayPal AI Hackathon using Next.js, Node.js, and Google Gemini API (`gemini-3.5-flash-lite`) to audit code and trigger PayPal payments• [Live Demo](https://agentic-auto-escrow-1.onrender.com) • [Video](https://www.youtube.com/watch?v=rJ1KZ4dXjj8).
 * **[AI Voice Assistant](https://github.com/Khusnuma33/revolt-voice-clone):** A low-latency real-time conversational agent built with JavaScript and the Gemini Live API over WebSockets.
 * **[Resume Scanner AI](https://github.com/Khusnuma33/resume-scanner-ai):** An automated Python pipeline extracting unstructured resume metadata into structured reports.
 * **[Urban Clap Clone API](https://github.com/Khusnuma33/urban-clap-api-):** A services marketplace backend with JWT auth and role-based access control built on Node.js and Express.js.
